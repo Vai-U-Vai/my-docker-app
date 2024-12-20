@@ -1,0 +1,96 @@
+[
+  {
+    "ContainingType": "Countries_Cloud.Controllers.MainControllers",
+    "Method": "Index",
+    "RelativePath": "api",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Countries_Cloud.Controllers.MainControllers",
+    "Method": "GetAllAsync",
+    "RelativePath": "api/country",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Countries_Cloud.Controllers.MainControllers",
+    "Method": "AddAsync",
+    "RelativePath": "api/country",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "country",
+        "Type": "Countries_Cloud.Model.Country",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Countries_Cloud.Controllers.MainControllers",
+    "Method": "GetByCodeAsync",
+    "RelativePath": "api/country/{code}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "code",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Countries_Cloud.Controllers.MainControllers",
+    "Method": "GetByIdAsync",
+    "RelativePath": "api/country/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Countries_Cloud.Controllers.MainControllers",
+    "Method": "Delete",
+    "RelativePath": "api/country/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Countries_Cloud.Controllers.MainControllers",
+    "Method": "Ping",
+    "RelativePath": "api/ping",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

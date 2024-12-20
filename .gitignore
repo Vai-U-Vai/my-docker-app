@@ -1,0 +1,36 @@
+# Игнорируем логи
+*.log
+
+# Игнорируем данные временного кэша
+*.tmp
+*.swp
+
+# Игнорируем системные файлы
+.DS_Store
+Thumbs.db
+
+# Игнорируем папки node_modules, если используется Node.js
+node_modules/
+
+# Игнорируем Docker артефакты
+docker-compose.override.yml
+.env
+.env.local
+
+# Игнорируем Python окружение, если используется
+__pycache__/
+*.pyc
+*.pyo
+
+# Игнорируем IDE и редакторские файлы
+.vscode/
+.idea/
+
+# Игнорируем артефакты сборки
+dist/
+build/
+
+# Visual Studio system files
+.vs/
+*.vsidx
+

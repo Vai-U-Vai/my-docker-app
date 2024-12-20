@@ -1,0 +1,12 @@
+D:\StudyPrograms\Countries_Cloud\Countries_Cloud\obj\Release\net7.0\PubTmp\Out\Countries_Cloud.exe
+D:\StudyPrograms\Countries_Cloud\Countries_Cloud\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+D:\StudyPrograms\Countries_Cloud\Countries_Cloud\obj\Release\net7.0\PubTmp\Out\appsettings.json
+D:\StudyPrograms\Countries_Cloud\Countries_Cloud\obj\Release\net7.0\PubTmp\Out\Countries_Cloud.dll
+D:\StudyPrograms\Countries_Cloud\Countries_Cloud\obj\Release\net7.0\PubTmp\Out\Countries_Cloud.runtimeconfig.json
+D:\StudyPrograms\Countries_Cloud\Countries_Cloud\obj\Release\net7.0\PubTmp\Out\Countries_Cloud.pdb
+D:\StudyPrograms\Countries_Cloud\Countries_Cloud\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+D:\StudyPrograms\Countries_Cloud\Countries_Cloud\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\StudyPrograms\Countries_Cloud\Countries_Cloud\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
+D:\StudyPrograms\Countries_Cloud\Countries_Cloud\obj\Release\net7.0\PubTmp\Out\Npgsql.dll
+D:\StudyPrograms\Countries_Cloud\Countries_Cloud\obj\Release\net7.0\PubTmp\Out\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\StudyPrograms\Countries_Cloud\Countries_Cloud\obj\Release\net7.0\PubTmp\Out\Countries_Cloud.deps.json
